@@ -20,3 +20,26 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-naeem2&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+## 💻 Languages & Tools
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,mysql,sqlite" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,grafana,jira" />
+</p>
