@@ -9,7 +9,7 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 </p>
 
 ---
- <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Naeem;Backend+Developer;Asp.net+;Clean+Architecture+Enthusiast" />
+ <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Naeem;Backend+Developer;Asp.net+core;Clean+Architecture+Enthusiast" />
 </p>
 
 ### 🚀 About Me
