@@ -9,6 +9,8 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 </p>
 
 ---
+ <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahmed+Naeem;Backend+Developer;Asp.net+;Clean+Architecture+Enthusiast" />
+</p>
 
 ### 🚀 About Me
 
@@ -19,7 +21,7 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 - 🎯 Goal: Build reliable, real-world, production-ready systems
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-naeem2&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-naeem2&show_icons=true&theme=tokyonight)
 
 ## 💻 Languages & Tools
 
@@ -43,3 +45,7 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,grafana,jira" />
 </p>
+<p align="center">
+ 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-naeem2&theme=tokyo-night)
