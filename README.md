@@ -49,4 +49,3 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-naeem2&theme=tokyo-night)
-![snake animation](https://github.com/ahmed-naeem2/ahmed-naeem2/blob/output/github-contribution-grid-snake.svg)
