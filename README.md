@@ -48,4 +48,4 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 <p align="center">
  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-naeem2&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-naeem2&theme=tokyo-night
