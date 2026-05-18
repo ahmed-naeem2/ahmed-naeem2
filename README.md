@@ -26,25 +26,33 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 
 ### Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php" />
-</p>
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php" />
+    </td>
+  </tr>
 
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,mysql,sqlite" />
-</p>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
+    </td>
+  </tr>
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />    </td>
+  </tr>
 
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,grafana,jira" />
-</p>
-<p align="center">
- 
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postman,grafana,docker,linux" />
+    </td>
+  </tr>
+</table>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed-naeem2&theme=tokyo-night)
