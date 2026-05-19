@@ -24,7 +24,7 @@ Graduating top of my class, with a strong focus on building scalable and high-pe
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed-naeem2&show_icons=true&theme=tokyonight)
 ## 💻 Languages & Tools
 
-### Programming Languages
+
 
 <table>
   <tr>
